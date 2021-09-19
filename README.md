@@ -16,6 +16,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HellBoy-OP&theme=black-ice)](https://git.io/streak-stats)
 
+[![Github Graphs](https://activity-graph.herokuapp.com/graph?username=HellBoy-OP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HellBoy-OP&layout=compact&theme=cobalt)](https://github.com/HellBoy-OP)
 
 # See You Later 🙃😉

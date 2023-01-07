@@ -37,4 +37,10 @@
 
 </details>
 
+<details><summary><h3>Spotify 🎧</h3></summary>
+
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ouqmwfajpkuqsj3imzbnmktewu&cover_image=true&theme=compact&show_offline=true&background_color=121212)](https://hellboy.me)
+
+</details>
+
 <h1 align="center">k thnx by <img src="https://tenor.com/view/zero-two-pro-paz-gif-23577863.gif" width="250"> yb xnht k</h1>
